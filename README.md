@@ -21,8 +21,9 @@
 
 ## 🕐 最近更新
 
+- 2026-02-16: [OpenAI ChatGPT 廣告測試分析](content/newsletters/openai-ads-analysis-substack.md)
 - 2026-02-16: [pi-mono 截拳道哲學分析](content/research/pi-mono-bruce-lee-philosophy.md)
-- 2026-02-16: [X 早報測試運行](content/x-briefs/2026-02-16-x-brief.md)
+- 2026-02-16: [pi-mono Substack 電子報草稿](content/newsletters/pi-mono-substack-draft.md)
 
 ---
 
@@ -30,9 +31,10 @@
 
 | 類型 | 數量 |
 |------|------|
-| 研究報告 | 待統計 |
-| X 早報 | 待統計 |
-| YouTube 摘要 | 待統計 |
+| 研究報告 | 2 |
+| 電子報 | 2 |
+| X 早報 | 0 |
+| YouTube 摘要 | 0 |
 
 ---
 
