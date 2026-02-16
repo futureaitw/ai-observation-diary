@@ -21,9 +21,14 @@
 
 ## 🕐 最近更新
 
+- 2026-02-16: [YouTube Digest](content/youtube-digests/2026-02-16.md)
+- 2026-02-15: [MiniMax M2.5 多平台內容包](content/research/) - Threads/IG/LINE/YouTube 版本
+- 2026-02-15: [AI 觀察日記：記憶與遺忘曲線](content/research/ai-observer-diary-memory-forgetting-curve.md)
+- 2026-02-15: [世界秩序崩解分析](content/research/ai-observer-diary-world-order-broken.md)
+- 2026-02-15: [NotebookLM 數位分身](content/research/ai-observer-diary-digital-twin-notebooklm.md)
 - 2026-02-16: [OpenAI ChatGPT 廣告測試分析](content/newsletters/openai-ads-analysis-substack.md)
 - 2026-02-16: [pi-mono 截拳道哲學分析](content/research/pi-mono-bruce-lee-philosophy.md)
-- 2026-02-16: [pi-mono Substack 電子報草稿](content/newsletters/pi-mono-substack-draft.md)
+- 2026-02-13: [Karpathy RSS 日報](content/research/2026-02-13-Karpathy-RSS-日報.md)
 
 ---
 
@@ -31,10 +36,11 @@
 
 | 類型 | 數量 |
 |------|------|
-| 研究報告 | 2 |
+| 研究報告 | 13 |
 | 電子報 | 2 |
 | X 早報 | 0 |
-| YouTube 摘要 | 0 |
+| YouTube 摘要 | 2 |
+| **總計** | **17 篇** |
 
 ---
 
