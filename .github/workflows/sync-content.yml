@@ -1,0 +1,26 @@
+name: Sync Content from OpenClaw
+
+on:
+  schedule:
+    # 每天 08:00 UTC (16:00 CST) 同步
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Sync content
+        run: |
+          echo "Syncing content from OpenClaw workspace..."
+          # 這裡可以加入實際的同步腳本
+          
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-sync content: $(date +%Y-%m-%d)"
+          git push
